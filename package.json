@@ -1,0 +1,19 @@
+{
+  "name": "jb-vid-player",
+  "version": "1.0.0",
+  "description": "A third party video player for react app.",
+  "main": "src/VidPlayer.jsx",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src/VidPlayer.jsx --out-file dist/index.js"
+  },
+  "author": "Abhishek Singh Rajput",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.3",
+    "@babel/preset-env": "^7.24.3",
+    "@babel/preset-react": "^7.24.1"
+  }
+}
