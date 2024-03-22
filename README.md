@@ -70,5 +70,3 @@ Copyright © 2024 [Abhishek Singh Rajput](https://github.com/Abhishek279-alt).<b
 This project is [ISC](https://github.com/Abhishek279-alt/jb-vid-player/blob/master/LICENSE) licensed.
 
 ---
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
