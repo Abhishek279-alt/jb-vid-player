@@ -14,27 +14,47 @@
   </a>
 </p>
 
-> A third party video player for react app.
+> A third party video player component for react app.
 
 ### 🏠 [Homepage](https://github.com/Abhishek279-alt/jb-vid-player)
 
 ## Install
 
 ```sh
-npm install
+npm i jb-vid-player
 ```
 
-## Run tests
+## Usage
 
-```sh
-npm run test
+```jsx
+import VidPlayer from "jb-vid-player";
 ```
+
+## Demo
+
+```jsx
+import VidPlayer from "jb-vid-player";
+
+function App() {
+  return (
+    <>
+      <VidPlayer vidSrc="video.mp4" />
+    </>
+  );
+}
+
+export default App;
+```
+
+## Prop
+
+- **vidSrc** : Requires URL or file path of the video to be played.
 
 ## Author
 
 👤 **Abhishek Singh Rajput**
 
-* Github: [@Abhishek279-alt](https://github.com/Abhishek279-alt)
+- Github: [@Abhishek279-alt](https://github.com/Abhishek279-alt)
 
 ## 🤝 Contributing
 
@@ -49,5 +69,6 @@ Give a ⭐️ if this project helped you!
 Copyright © 2024 [Abhishek Singh Rajput](https://github.com/Abhishek279-alt).<br />
 This project is [ISC](https://github.com/Abhishek279-alt/jb-vid-player/blob/master/LICENSE) licensed.
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_

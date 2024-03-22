@@ -1,7 +1,7 @@
 {
   "name": "jb-vid-player",
   "version": "1.0.0",
-  "description": "A third party video player for react app.",
+  "description": "A third party video player component for react app.",
   "main": "src/VidPlayer.jsx",
   "type": "module",
   "scripts": {
